@@ -31,12 +31,8 @@
 14. write the dataset
 
 ### tasks completed with program flow
-task 1 -> 11
-
-task 2 -> 2 to 10
-
-task 3 -> 12
-
-task 4 -> 8 and 10
-
-task 5 -> 13 and 14
+1. task 1 -> 11
+2. task 2 -> 2 to 10
+3. task 3 -> 12
+4. task 4 -> 8 and 10
+5. task 5 -> 13 and 14
