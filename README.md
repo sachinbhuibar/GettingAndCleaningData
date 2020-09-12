@@ -32,7 +32,11 @@
 
 ### tasks completed with program flow
 task 1 -> 11
+
 task 2 -> 2 to 10
+
 task 3 -> 12
+
 task 4 -> 8 and 10
+
 task 5 -> 13 and 14
